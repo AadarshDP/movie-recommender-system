@@ -1,5 +1,5 @@
 # 🎬 Movie Recommendation System
-
+This is a Data Science project done as part of the Outrix internship
 This is a **content-based movie recommendation system** that suggests movies using cast and director information from the TMDB 5000 Movie Credits dataset. It also includes **data visualizations** like top actors, most recommended movies, and clustering of movie tags.
 
 ---
